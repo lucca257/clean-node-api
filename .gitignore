@@ -4,3 +4,7 @@ coverage
 data
 !src/data
 .vscode
+/.idea/clean-node-api.iml
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/modules.xml
