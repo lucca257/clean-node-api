@@ -16,6 +16,7 @@
         "eslint-plugin-standard": "4"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest --passWithNoTests --watch",
+        "test:staged": "jest --passWithNoTests"
     }
 }
