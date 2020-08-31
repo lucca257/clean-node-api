@@ -13,4 +13,5 @@ jobs:
     - uses: Klemensas/action-autotag@stable
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        package_root: "/path/to/subdirectory"
         version: ${{ steps.previous_step.outputs.version }}
