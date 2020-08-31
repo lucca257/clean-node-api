@@ -1,12 +1,2 @@
-name: Create Tag
-
-on:
-  push:
-    branches:
-      - master
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: ackerHappyHour/tagging-strategy@1.0.0
+- name: Tagging Strategy
+  uses: HackerHappyHour/tagging-strategy@1.0.0
