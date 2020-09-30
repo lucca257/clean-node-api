@@ -1,3 +1,8 @@
-# clean-node-api
+# NODE-SOLID
+Projeto do curso 
 
-Repositório criado para replicar as boas práticas de programação utilizando NodeJs, Typescript, TDD, Clean Architecture e SOLID.
+### Objetivo: 
+
+>Replicar as boas práticas de programação como: Clean Architecture, SOLID e TDD utilizando Typescript.
+
+### Tecnologias utilizadas:
